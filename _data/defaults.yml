@@ -1,0 +1,7 @@
+home:
+  heading: "Projeto PHP Architect"
+  subheading: "Nesse blog vamos abordar diversos temas relacionados à desenvolvimento e fazer implementações utilizando PHP e seus frameworks."
+  banner: 
+    image: "https://images.unsplash.com/photo-1599507593362-50fa53ed1b40?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8cGhwfGVufDB8fDB8fA%3D%3D&w=1000&q=80"
+    opacity: 0.6
+    heading_style: "font-color:black; font-weight: bold;"
