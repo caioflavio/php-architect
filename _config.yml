@@ -24,7 +24,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Esse blog tem como objetivo registar meus processo de aprendizado 
   de algumas ferramentas e modelos arquiteturais de desenvolvimento
   utilizando a linguagem backend PHP.
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/php-architect" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: kaioflavio123
 github_username:  caioflavio
